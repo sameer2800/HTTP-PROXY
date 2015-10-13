@@ -1,9 +1,10 @@
 
 ##Description :
 
-	This HTTP proxy server made in C++ language. It supports only HTTP protocol get method requests .  In
-	simple words proxy server acts as middleware between you and the server u request. It hides the client
-	from the server as server can only track details of proxy server. We can also filter the browser requests by allowing only those requests  to secure websites. 
+	This HTTP proxy server made in C++ language. It supports only HTTP protocol get method requests .
+	In  simple words proxy server acts as middleware between you and the server u request. 
+	It hides the client  from the server as server can only track details of proxy server. 
+	We can also filter the browser requests by allowing only those requests  to secure websites. 
 
 ##IIIT - proxy :
 
